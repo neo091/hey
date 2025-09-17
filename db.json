@@ -4,6 +4,11 @@
       "id": 1,
       "title": "Hello World",
       "body": "This is my first API call"
+    },
+    {
+      "id": 2,
+      "title": "Hello World",
+      "body": "This is my first API call 2"
     }
   ]
 }
