@@ -10,5 +10,10 @@
       "title": "Hello World",
       "body": "This is my first API call 2"
     }
-  ]
+  ],
+  "evangelio": {
+    "title": "Evangelio de Hoy 📖 Lunes 03 de Noviembre 2025 | #evangeliodehoy",
+    "thumbnail": "https://i3.ytimg.com/vi/6VDH1reWaLI/maxresdefault.jpg",
+    "date": "Domingo 2 de noviembre 2025"
+  }
 }
