@@ -11,10 +11,32 @@
       "body": "This is my first API call 2"
     }
   ],
+
   "evangelio": {
-    "title": "Evangelio de Hoy 📖 Lunes 03 de Noviembre 2025 | #evangeliodehoy",
-    "thumbnail": "https://i3.ytimg.com/vi/6VDH1reWaLI/maxresdefault.jpg",
-    "date": "Domingo 2 de noviembre 2025",
-    "videoId":"utSxmDAZELk"
-  }
+    "title": "Evangelio de Hoy | Miércoles 05 de Noviembre 2025 | #evangeliodehoy",
+    "thumbnail": "https://i3.ytimg.com/vi/dBSs56gpDQY/maxresdefault.jpg",
+    "date": "Miércoles 05 nov 2025",
+    "videoId": "dBSs56gpDQY"
+  },
+
+  "evangelios": [
+    {
+      "title": "📖 Evangelio de Hoy | Miércoles 05 de Noviembre 2025 | #evangeliodehoy ",
+      "thumbnail": "https://i3.ytimg.com/vi/dBSs56gpDQY/maxresdefault.jpg",
+      "date": "Miércoles 05 nov 2025",
+      "id": "dBSs56gpDQY"
+    },
+    {
+      "title": "Evangelio de Hoy 📖 Martes 04 de Noviembre 2025 | #evangeliodehoy ",
+      "thumbnail": "https://i3.ytimg.com/vi/gxyiN2K55mg/maxresdefault.jpg",
+      "date": "Miércoles 04 nov 2025",
+      "id": "gxyiN2K55mg"
+    },
+    {
+      "title": "Evangelio de Hoy 📖 Lunes 03 de Noviembre 2025 | #evangeliodehoy ",
+      "thumbnail": "https://i3.ytimg.com/vi/6VDH1reWaLI/maxresdefault.jpg",
+      "date": "Lunes 01 de noviembre 2025",
+      "id": "6VDH1reWaLI"
+    }
+  ]
 }
